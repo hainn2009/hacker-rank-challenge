@@ -1,0 +1,15 @@
+{
+  "name": "hacker-rank-challenge",
+  "version": "1.0.0",
+  "description": "My hacker rank challenge solved",
+  "main": "index.js",
+  "repository": "git@github.com:hainn2009/hacker-rank-challenge.git",
+  "author": "Nguyen Ngoc Hai <hainn2009@gmail.com>",
+  "license": "GNU",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
